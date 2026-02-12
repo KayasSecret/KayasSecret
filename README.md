@@ -1,7 +1,7 @@
 ![github-banne](https://github.com/user-attachments/assets/56405b53-f4ca-4aee-ab38-68c36ea0b4a1)
 <h1 align="center">Hello 👋, This side is Kayas Mishra 🎲</h1>
 <h3 align="center">Turning caffeine into clean code & ideas into real-world solutions. 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/KayasSecret/KayasSecret/blob/main/animate-this-image-into-a-realistic-cinematic-vide-ezgif.com-video-to-gif-converter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayassecret&label=Profile%20views&color=0e75b6&style=flat" alt="kayassecret" /> </p>
 
