@@ -1,4 +1,4 @@
-![github-banne](https://github.com/KayasSecret/KayasSecret/blob/main/Github%20Banner.png)
+![github-banne](https://github.com/KayasSecret/KayasSecret/blob/main/New%20Github%20Banner.png)
 <h1 align="center">Hello 👋, This side is Kayas Mishra 🎲</h1>
 <h3 align="center">Turning caffeine into clean code & ideas into real-world solutions. 💻</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KayasSecret/KayasSecret/blob/main/animate-this-image-into-a-realistic-cinematic-vide-ezgif.com-video-to-gif-converter.gif">
