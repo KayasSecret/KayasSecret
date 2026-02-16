@@ -31,7 +31,7 @@
 <a href="https://fb.com/Kayas Mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kayas Mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/kayas_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayas_mishra" height="30" width="40" /></a>
 <a href="https://twitter.com/kayasmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayasmishra" height="30" width="40" /></a>
-<a href="https://youtube.com/Kayasverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kayasverse" height="30" width="40" /></a>
+<a href="https://youtube.com/@Kayasverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kayasverse" height="30" width="40" /></a>
 </p>
 
 ***
