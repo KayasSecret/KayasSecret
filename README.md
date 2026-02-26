@@ -18,9 +18,12 @@
 
 - 💬 Ask me about **C++, DSA & Full Stack Dev (MERN STACK) 💰**
 
-- 📫 How to reach me **kayasmishra29s@gmail.com 😎**
-
 - ⚡ Fun fact **I debug more than I sleep. 🤩**
+
+
+📫 How to reach me :
+- Email Id -> **kayasmishra29s@gmail.com 😎**
+- LinkedIn Id -> **https://www.linkedin.com/in/kayas-mishra👨‍💻**
 
 ***
 
