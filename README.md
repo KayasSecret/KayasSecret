@@ -85,6 +85,9 @@
 
 <h3 align="left">Developer Dashboard</h3>
 <p>
+  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayasSecret&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</p>
+<p>
   <img align="center" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=KayasSecret&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
 </p>
