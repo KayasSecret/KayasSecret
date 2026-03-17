@@ -91,8 +91,6 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=KayasSecret&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KayasSecret&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-
 ***
 
 <picture>
