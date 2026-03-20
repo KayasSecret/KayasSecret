@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KayasSecret/KayasSecret/blob/main/animate-this-image-into-a-realistic-cinematic-vide-ezgif.com-video-to-gif-converter.gif">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /><img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="50" /><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="50" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=kayassecret&label=Profile%20views&color=0e75b6&style=flat" alt="kayassecret" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /><img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="50" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50">&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayassecret&label=Profile%20views&color=0e75b6&style=flat" alt="kayassecret" /> </p>
 
 - 🔭 I'm currently working on **Building scalable MERN applications and real-world problem solving.🔥**
 
@@ -89,6 +89,9 @@
 <p>
   <img align="center" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=KayasSecret&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 </p>
 
 ***
