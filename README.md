@@ -82,7 +82,7 @@
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
   
 ***
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> Developer Dashboard</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> Developer Dashboard (KM)</h3>
 <p>
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayasSecret&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </p>
