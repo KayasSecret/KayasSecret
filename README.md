@@ -23,7 +23,9 @@
 
 📫 How to reach me :
 - LinkedIn Id -> **https://www.linkedin.com/in/kayas-mishra👨‍💻**
-- Email Id -> **kayasmishra29s@gmail.com🌀**
+- Facebook Id -> **https://www.facebook.com/kayasmishra04💕**
+- Email Id -> **kayasmishra29s@gmail.com📧**
+  
 
 ***
 
