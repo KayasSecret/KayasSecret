@@ -4,8 +4,9 @@
 <h3 align="center">Turning caffeine into clean code & ideas into real-world solutions. 💻</h3>
 
 ***
-
-<img align="right" alt="Coding" width="400" src="https://github.com/KayasSecret/KayasSecret/blob/main/animate-this-image-into-a-realistic-cinematic-vide-ezgif.com-video-to-gif-converter.gif">
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" align="right" width="500" alt="NUX_Octodex">
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /><img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="50" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50">&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayassecret&label=Profile%20views&color=0e75b6&style=flat" alt="kayassecret" /> </p>
 
@@ -86,14 +87,11 @@
 ***
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> Developer Dashboard (KM)</h3>
 <p>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayasSecret&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-</p>
-<p>
   <img align="center" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=KayasSecret&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
 </p>
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+  <img "width="400" src="https://github.com/KayasSecret/KayasSecret/blob/main/animate-this-image-into-a-realistic-cinematic-vide-ezgif.com-video-to-gif-converter.gif">
 </p>
 
 ***
