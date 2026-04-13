@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Github Banner (April)" src="https://github.com/user-attachments/assets/68c1bb2b-18cf-4f7a-bfca-4712fdd31d14" />
 
-<h1 align="center">Hello 👋, This side is Kayas 🎲</h1>
+<h1 align="center">Hello 👋, This side is Kayas Mishra 🎲</h1>
 <h3 align="center">Turning caffeine into clean code & ideas into real-world solutions. 💻</h3>
 
 ***
